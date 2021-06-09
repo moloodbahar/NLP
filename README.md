@@ -1,4 +1,5 @@
 # NLP
+Natural Language Processing specialization Andrew NG Coursera
 echo "# NLP" >> README.md
 git init
 git add README.md
